@@ -1,8 +1,8 @@
 # A Day of One-Line Pitches
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-6C5CE7)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js 22](https://img.shields.io/badge/node-22-339933)](https://nodejs.org)
+[![make.fun · u-ronigrv-a-day-of-one-line-pitches-12cd9bb3](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/archerxyzv1/a-day-of-one-line-pitches/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/archerxyzv1/a-day-of-one-line-pitches/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
 An entry for make.fun's bounty **"A Day of One-Line Pitches"** ($5, top three take $2, $2 and $1). The entry is one sentence, 240 characters at most, that would convince a friend who has never coded to let an AI agent build their first app idea on make.fun.
 
